@@ -203,3 +203,9 @@ Name: [Bryan Speelman](https://github.com/crayphix)
 About: Java Developer
 Programming Language: Java
 Email: bryspeelm@gmail.com
+
+Name: Inayat Parveen  (https://github.com/inayatshaikh)
+Place: Jaipur
+About: Persuing B.Tech
+Programming Language: C, C++, IOT
+Email:shaikhinayats96@gmail.com
